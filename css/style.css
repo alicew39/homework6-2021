@@ -8,8 +8,6 @@ header {
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 100%;
-    position: fixed;
 }
 
 .nav_links {
