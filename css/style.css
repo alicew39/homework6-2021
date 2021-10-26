@@ -105,6 +105,8 @@ footer{
         display: flex;
         flex-direction: row;
         justify-content: space-between;
+        width: 100%;
+        position: fixed;
     }
 
     .nav_links {
