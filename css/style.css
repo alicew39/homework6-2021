@@ -66,12 +66,12 @@ h3 {
 @keyframes logo_animation {
     /*Your code here.*/
     from{
-      width: 50px;
-      opacity: 0;
+        opacity: 0;
+        width: 50px;
     }
     to{
-      width: 425px;
-      opacity: 1;
+        opacity: 1;
+        width: 425px;
     }
 }
 
@@ -105,7 +105,6 @@ footer{
         flex-direction: row;
         justify-content: space-between;
         width: 100%;
-        position: fixed;
     }
 
     .nav_links {
